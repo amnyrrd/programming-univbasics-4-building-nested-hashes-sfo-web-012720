@@ -28,7 +28,7 @@ def monopoly_with_fourth_tier
   # complexity.
   	monopoly = {
 	  :railroads=> {
-	    :pieces=> "6"
+	    :pieces=> true
 	    }
 	  }
 end
