@@ -1,11 +1,10 @@
 def base_hash
 	monopoly = {
 	  :railroads=> {
-	    :name=> {
-	    }
+	    :name=> "something"
+	    
 	    }
 	  }
-	}
 end
 
 def monopoly_with_second_tier
